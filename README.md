@@ -13,5 +13,14 @@ Parking Lot Tracker
 Enter your choice: 1
 Enter vehicle number: 1
 {'level': 'A', 'spot': 1}
+
+Parking Lot Tracker
+1. Assign Parking Spot
+2. Retrieve Parking Spot
+3. Exit
+Enter your choice: 2
+Enter vehicle number: 1
+{'level': 'A', 'spot': 1}
+
  
 ```
